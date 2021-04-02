@@ -19,9 +19,19 @@ Subsequently, after building many more relational databases, I was able to get t
 ![retiree_by_title](https://user-images.githubusercontent.com/71041680/113455036-9e6b0e80-93d7-11eb-9ff9-5db7e515f26a.png)
 
 
-## Analysis of Employees whow are eligible for mentorship program:
--
+## Analysis of Employees who are eligible for the mentorship program:
+- There are only 633 Senior Staff, 213 Senior Engineers among a total of 1940 employees eligibale for the mentorship program.
 
-## 
 
-## Summary
+![eligible_employees](https://user-images.githubusercontent.com/71041680/113461288-f4e14880-93e9-11eb-91ab-bb9a3b222d33.png)
+
+
+## STRATEGIVE RECOMMENDATIONS
+- It is of the utmost importance to prepare for potential upcoming wave of retirees.  Currently the firm would find itself greatly unprepared for an
+  employee exodus due to retirement.   
+- My first recommendation would be to expand the number of candidates viable for entry into the membership program by changing the date criteria for acceptance.  
+  This would help to more readily prepare those internally to replace outgoing retirees.
+- Second, I would recommend the company start looking into hiring individuals in advance of the retirement wave from outside the firm.  Getting these new employees acclimated
+  to the firm before Pewlett Hackard finds itself caught behind and severly short of human capital is imperative.
+
+
